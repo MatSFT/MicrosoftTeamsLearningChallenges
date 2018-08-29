@@ -2,7 +2,7 @@
 
 ## Background
 
-Games tend to get very competitive; winners like to brag about winning and losers want to beat the winners. No game would be complete without a way to search and share your "service record" with your friends. The service record is essentially your global gameplay statistics. The three outcomes in "rock", "paper", "scissors" are win, tie, and loss so the service record should contain these three totals.
+Games tend to get very competitive; winners like to brag about winning and losers want to become winners. No game would be complete without a way to search and share your "service record" with your friends. The service record is your global gameplay statistics. The three outcomes in "rock", "paper", "scissors" are win, tie, and loss so the service record should contain these three totals.
 
 Messaging Extensions are a great way to share data between users.
 
@@ -21,6 +21,17 @@ Users may also want to share their team member's service records. Your messaging
 - If your app is not installed in a team and you try to query the roster for that team, you will get an UnauthorizedAccessException. This is expected and you should catch and handle this exception. You still get a reference to the current user and should be able to return the one record for the current user.
 
 ## Hints
+
+- The service record object should look something like this
+```csharp
+public class ServiceRecord
+{
+    public ChannelAccount User { get; set; }
+    public int Wins { get; set; }
+    public int Losses { get; set; }
+    public int Ties { get; set; }
+}
+```
 
 - You have probably used the BotBuilder storage to store the wins and losses from the previous challenges. It is probably not a good idea to store the global service record in the BotBuilder storage since you want it to span conversations and be easily queriable by user Id. Feel free to create your own in-memory storage that stores and updates the service records. It can look something like this (notice the static dictionary):
 ```csharp

@@ -8,7 +8,7 @@ Microsoft Teams is the latest addition to Office 365, and it has been positioned
 
 ## Challenge
 
-Each team member should sign in to Microsoft Teams with their Microsoft account. Next, provision one team for your group in Microsoft Teams (NOT one per team member). Make sure each person in your group is a member in the team you created. Please also add mastank@microsoft.com as a member to each of your teams. Feel free to @mention me within your team at any point with questions or if you are done with a challenge.
+Each team member should sign in to Microsoft Teams with their Microsoft account. Next, provision one team for your group in Microsoft Teams (NOT one per team member). Make sure each person in your group is a member in the team you created.
 
 If you are not familiar with Teams already, please take a few minutes to send each other messages (with giphys), create and delete channels, upload a team icon, and edit and delete sent messages.
 
