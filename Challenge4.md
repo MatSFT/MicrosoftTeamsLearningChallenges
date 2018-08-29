@@ -1,5 +1,7 @@
 # Challenge 4 - Adaptive Cards and Message Updates
 
+## Approximate time: 60 - 120 minutes
+
 ## Background
 
 Finally in Challenge 4 we can start building the proper "rock", "paper", "scissors" app. Let's start by adding some results within our team and converting our current "Greetings! (I have greeted you # times)" message into a rich AdaptiveCard with buttons.

@@ -1,10 +1,12 @@
 # Challenge 1 - Getting started with Microsoft Teams and Apps
 
+## Approximate time: 15 - 30 minutes
+
 ## Background
 
 Office 365 has seen dramatic growth in the enterprise. Office 365 now has 100M+ monthly active commercial users.
 
-Microsoft Teams is the latest addition to Office 365, and it has been positioned as Microsoft's primary investment in cloud communications. Challenge 1 sets out to ensure you understand the very basics of Office 365 and Microsoft Teams. In the challenge, you will perform some basic operations such as forming a team, exploring the app gallery, and installing an app personally. If you are familiar with Microsoft Teams, this challenge should take no time and move your team to the "developer" tasks at the heart of OpenHack.
+Microsoft Teams is the latest addition to Office 365, and it has been positioned as Microsoft's primary investment in cloud communications. Challenge 1 sets out to ensure you understand the very basics of Office 365 and Microsoft Teams. In the challenge, you will perform some basic operations such as forming a team, exploring the app gallery, and installing an app personally. If you are familiar with Microsoft Teams, this challenge should take very little time.
 
 ## Challenge
 
@@ -31,8 +33,6 @@ Find a fun "Team" app to install into your team from the app gallery. Some good 
 ## Important Notes
 
 - You should perform this challenge and all future challenges inside of the Microsoft tenant. Most if not all development features are enabled inside of the Microsoft tenant which means that you can install any Teams app and access various developer features such as sideloading (Keep in mind that most production tenants will lock down this functionality and often users will need a development tenant to test their apps).
-
-- 
 
 ## References
 

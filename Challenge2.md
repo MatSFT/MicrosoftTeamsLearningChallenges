@@ -1,14 +1,16 @@
 # Challenge 2 - The First App
 
+## Approximate time: 30 minutes
+
 ## Background
 
-Throughout the challenges, your team will build (and play) a rock-paper-scissors game. The app will consist of a bot for setting up rounds and tracking wins/losses, a configurable tab to hold a leaderboard, and a messaging extension to share your or your friend's game service record. The Microsoft Teams platform will host the game.
+Throughout the challenges, your team will build (and play) a rock-paper-scissors game. The app will consist of a bot for setting up rounds and tracking wins/losses, a static tab to display your own service record, and a messaging extension to share your or your team member's game service record.
 
 The first thing we will focus on is getting a bot running inside of Teams. This bot will be fairly basic and will only respond with hello to messages that have "hi" or "hello". The code for this bot is already written for you. This challenge is oriented around the process of running, packaging, and sideloading the bot into the team you created in the previous challenge.
 
 ## Challenge
 
-Grab the code for the bot can be found in the challenges folder. It is called MicrosoftTeamsLearningApp.zip. It contains a Visual Studio solution file as well as a detailed README file that explains how to get the code running and sideloaded.
+The code for the bot can be found in the challenges folder. It is called MicrosoftTeamsLearningApp.zip. It contains a Visual Studio solution file as well as a detailed README file that explains how to get the code running and sideloaded.
 
 ## Important Notes
 

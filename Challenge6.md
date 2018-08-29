@@ -1,5 +1,7 @@
 # Challenge 6 - My Service Record Tab
 
+## Approximate time: 45 minutes
+
 ## Background
 
 We've touched before on the topic of personal and team scoped apps. The app we built so far spans team and personal experiences to provide a fun game. We used a personal chat (via proactive messages) to request a user's game choice in private, while aggregating the results in the team context. This is where the true power of Teams comes to life. Bridging collaborative and personal experiences to provide a cohesive workspace.

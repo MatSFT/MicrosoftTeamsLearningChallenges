@@ -1,5 +1,7 @@
 # Challenge 5 - Service Record Messaging Extension
 
+## Approximate time: 45 minutes
+
 ## Background
 
 Games tend to get very competitive; winners like to brag about winning and losers want to become winners. No game would be complete without a way to search and share your "service record" with your friends. The service record is your global gameplay statistics. The three outcomes in "rock", "paper", "scissors" are win, tie, and loss so the service record should contain these three totals.
