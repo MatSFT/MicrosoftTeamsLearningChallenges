@@ -34,6 +34,8 @@ This is also a very good moment to introduce our [fantastic template sample app 
 
 - [Dialogs in .NET BotBuilder](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-dialogs)
 
+- [Conversation data storage in .NET BotBuilder](https://docs.microsoft.com/en-us/azure/bot-service/dotnet/bot-builder-dotnet-state?view=azure-bot-service-3.0)
+
 - [Local debugging a bot in Microsoft Teams with ngrok](https://docs.microsoft.com/en-us/microsoftteams/platform/resources/general/debug#locally-hosted)
 
 - [Quickly develop apps with App Studio for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-app-studio)
